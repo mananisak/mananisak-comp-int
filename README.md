@@ -1,2 +1,2 @@
 # mananisak-comp-int
-Work for undergraduate Computational Intelligence class
+Work from my undergraduate computer science degree.
