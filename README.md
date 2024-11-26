@@ -1,2 +1,2 @@
-# mananisak-undergrad-code
-Work from my undergraduate computer science degree.
+# mananisak-computational-intelligence
+Work from my undergraduate computational intelligence course.
